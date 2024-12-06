@@ -1,7 +1,7 @@
 # ci-cd
 ci/cd  details
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-What is CI/CD ?
+**What is CI/CD ?
 it is  used in modern software development to streamline and automate the process of delivering code changes.
 
 1. Continuous Integration (CI) : the practice of automatically integrating code changes from multiple developers into a shared repository multiple times a day.
@@ -23,7 +23,7 @@ it is  used in modern software development to streamline and automate the proces
 -Fully automated deployment process with no manual intervention.
 -Faster delivery of features and fixes to end users.
 -Requires robust testing and monitoring to ensure reliability.
--Tools: Kubernetes, Docker Swarm, Harness.
+-Tools: Kubernetes, Docker Swarm, Harness.**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Benefits of CI/CD ?
